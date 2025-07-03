@@ -14,12 +14,12 @@
         <li>Lesson Plans</li>
         <li>Class Attendance</li>
         <li>Quizzes and Tests</li>
-        <li>Promotion Progress Charts</li>
+        <li>Progress Charts</li>
         <li>Study Guides</li>
       </ul>
     </p>
     <p>
-      <b>Supported Martial Arts*</b>
+      <b>Supported Martial Arts *</b>
       <ul>
         <li>Judo</li>
       </ul>
