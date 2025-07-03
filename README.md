@@ -27,7 +27,7 @@
       </ul>
     </p>
     <br />
-    <div style="font-size: 6pt;">
+    <div style="font-size: 6;">
       * - If you would like another martial art to be supported in the database, submit a request to the DojoDB admins. They will review the request and contact you for more details about integrating it into the system.
     </div>
   </body>
