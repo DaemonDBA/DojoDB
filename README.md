@@ -8,7 +8,7 @@
     </p>
     <hr />
     <p>
-      <div style="font-weight: bold;">Features</div>
+      <b>Features</b>
       <ul>
         <li>Learning Objectives</li>
         <li>Lesson Plans</li>
