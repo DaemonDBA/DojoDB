@@ -10,7 +10,7 @@
     <br />
     <table>
       <tr>
-        <td style="font-weight: bold;">Learning Objectives</td>
+        <td>**Learning Objectives**</td>
       </tr>
       <tr>
         <td>Clearly define objectives and outcomes for your students, so that they can monitor their progress.</td>
