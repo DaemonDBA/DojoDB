@@ -13,8 +13,6 @@
 
 ## 💡 Features
 
-| | |
-|---------------------|----------------|
 | **Learning Objectives** | Set customized goals and track individual student progress through structured outcomes. |
 | **Lesson Plans**         | Organize and preserve lesson content to build a historic record for students and instructors. |
 | **Class Attendance**     | Monitor student participation to better assess engagement and learning consistency. |
