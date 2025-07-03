@@ -18,6 +18,7 @@
         <li>Study Guides</li>
       </ul>
     </p>
+    <br />
     <p>
       <b>Supported Martial Arts *</b>
       <ul>
