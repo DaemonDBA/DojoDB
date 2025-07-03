@@ -7,6 +7,7 @@
       DojoDB is a learning management system that is tailored around the world of martial arts. Students and instructors can interact and view pertinent information about their progress.
     </p>
     <hr />
+    <br />
     <p>
       <b>Features</b>
       <ul>
