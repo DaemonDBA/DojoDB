@@ -8,6 +8,7 @@
 ## 📘 Overview
 
 **DojoDB** is a specialized Learning Management System (LMS) designed for martial arts academies. It empowers instructors to define clear learning paths and enables students to track their progress over time. Whether you're managing a small dojo or a large martial arts school, DojoDB provides a robust digital foundation for modern education.
+
 <br/>
 | 💡 Features           | 🔍 Description |
 |-|-|
