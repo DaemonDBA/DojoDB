@@ -1,8 +1,9 @@
 <html>
   <body>
     <h3>DojoDB - Learning Management System built for Martial Arts</h3>
+    <hr />
     <p>
-      DojoDB is a learning management system, tailored around the world of martial arts. Students and instructors can interact and view pertinent information about their progress.
+      DojoDB is a learning management system that is tailored around the world of martial arts. Students and instructors can interact and view pertinent information about their progress.
     </p>
     <hr />
     <br />
