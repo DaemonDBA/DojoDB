@@ -27,8 +27,8 @@
       </ul>
     </p>
     <br />
-    <sub>
+    <sup>
       * - If you would like another martial art to be supported in the database, submit a request to the DojoDB admins. They will review the request and contact you for more details about integrating it into the system.
-    </sub>
+    </sup>
   </body>
 </html>
