@@ -10,7 +10,7 @@
     <br />
     <table>
       <tr>
-        <td>Learning Objectives</td>
+        <td style="font-weight: bold;">Learning Objectives</td>
       </tr>
       <tr>
         <td>Clearly define objectives and outcomes for your students, so that they can monitor their progress.</td>
@@ -18,7 +18,7 @@
     </table>
     <table>
       <tr>
-        <td>>Lesson Plans</td>
+        <td>Lesson Plans</td>
       </tr>
       <tr>
         <td>Plan what your lessons will include. Stored for historic records, so that your students can review past teachings.</td>
