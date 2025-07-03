@@ -9,15 +9,23 @@
     <hr />
     <br />
     <p>
-      <b>Features</b>
-      <ul>
-        <li>Learning Objectives</li>
-        <li>Lesson Plans</li>
-        <li>Class Attendance</li>
-        <li>Quizzes and Tests</li>
-        <li>Progress Charts</li>
-        <li>Study Guides</li>
-      </ul>
+      <table>
+        <tr>
+          <td><b>Features</b></td>
+        </tr>
+        <tr>
+          <td>
+            <ul>
+              <li>Learning Objectives</li>
+              <li>Lesson Plans</li>
+              <li>Class Attendance</li>
+              <li>Quizzes and Tests</li>
+              <li>Progress Charts</li>
+              <li>Study Guides</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </p>
     <br />
     <p>
