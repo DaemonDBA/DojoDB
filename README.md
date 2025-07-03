@@ -10,7 +10,7 @@
     <br />
     <table>
       <tr>
-        <td>**Learning Objectives**</td>
+        <td><strong>Learning Objectives</strong></td>
       </tr>
       <tr>
         <td>Clearly define objectives and outcomes for your students, so that they can monitor their progress.</td>
@@ -18,7 +18,7 @@
     </table>
     <table>
       <tr>
-        <td>Lesson Plans</td>
+        <td><strong>Lesson Plans</strong></td>
       </tr>
       <tr>
         <td>Plan what your lessons will include. Stored for historic records, so that your students can review past teachings.</td>
@@ -26,7 +26,7 @@
     </table>
     <table>
       <tr>
-        <td>Class Attendance</td>
+        <td><strong>Class Attendance</strong></td>
       </tr>
       <tr>
         <td>Track which students attended a lesson. Ties their instructor-led knowledge to the learning objectives.</td>
@@ -34,7 +34,7 @@
     </table>
     <table>
       <tr>
-        <td>Progress Charts</td>
+        <td><strong>Progress Charts</strong></td>
       </tr>
       <tr>
         <td>Dashboards and charts for monitoring both student progress and teacher insights.</td>
@@ -42,7 +42,7 @@
     </table>
     <table>
       <tr>
-        <td>Learning Resources</td>
+        <td><strong>Learning Resources</strong></td>
       </tr>
       <tr>
         <td>
