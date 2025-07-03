@@ -22,10 +22,9 @@
 <br />
 
 ## 🧘 Supported Martial Arts
+<sub>* Want another martial art added to DojoDB? Submit a request to the admin team. We’re happy to collaborate and expand support based on your academy’s unique needs.</sub>
 
 - **Judo**
-
-<sub>* Want another martial art added to DojoDB? Submit a request to the admin team. We’re happy to collaborate and expand support based on your academy’s unique needs.</sub>
 
 <br />
 
