@@ -1,68 +1,32 @@
-<html>
-  <body>
-    <div align="center"><h3>DojoDB</h3></div>
-    <div align="center"><h5>Learning Management System for Martial Arts</h5></div>
-    <hr />
-    <p>
-      DojoDB is a learning management system that is tailored around the world of martial arts. Students and instructors can interact and view pertinent information about their progress.
-    </p>
-    <br />
-    <table>
-      <tr>
-        <td><strong>Learning Objectives</strong></td>
-      </tr>
-      <tr>
-        <td>Clearly define objectives and outcomes for your students, so that they can monitor their progress.</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td><strong>Lesson Plans</strong></td>
-      </tr>
-      <tr>
-        <td>Plan what your lessons will include. Stored for historic records, so that your students can review past teachings.</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td><strong>Class Attendance</strong></td>
-      </tr>
-      <tr>
-        <td>Track which students attended a lesson. Ties their instructor-led knowledge to the learning objectives.</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td><strong>Progress Charts</strong></td>
-      </tr>
-      <tr>
-        <td>Dashboards and charts for monitoring both student progress and teacher insights.</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td><strong>Learning Resources</strong></td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>Study Guides</li>
-            <li>Instructional Videos</li>
-            <li>Quizzes and Tests</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-    <br />
-    <p>
-      <b>Supported Martial Arts *</b>
-      <ul>
-        <li>Judo</li>
-      </ul>
-    </p>
-    <br />
-    <sup>
-      * - If you would like another martial art to be supported in the database, submit a request to the DojoDB admins. They will review the request and contact you for more details about integrating it into the system.
-    </sup>
-  </body>
-</html>
+# **DojoDB**
+### _A Learning Management System Tailored for Martial Arts_
+
+> Helping students progress and instructors teach with precision.
+
+---
+
+## Overview
+
+**DojoDB** is a specialized Learning Management System (LMS) designed for martial arts academies. It empowers instructors to define clear learning paths and enables students to track their progress over time. Whether you're managing a small dojo or a large martial arts school, DojoDB provides a robust digital foundation for modern education.
+
+---
+
+## Features
+
+| Module           | Description |
+|---------------------|----------------|
+| **Learning Objectives** | Set customized goals and track individual student progress through structured outcomes. |
+| **Lesson Plans**         | Organize and preserve lesson content to build a historic record for students and instructors. |
+| **Class Attendance**     | Monitor student participation to better assess engagement and learning consistency. |
+| **Progress Charts**      | Visual dashboards for analyzing trends in student performance and teaching effectiveness. |
+| **Learning Resources**   | Attach supportive materials such as:<br>• Study Guides<br>• Instructional Videos<br>• Quizzes & Tests |
+
+---
+
+## Supported Martial Arts
+
+- **Judo**
+
+<sub>* Want another martial art added to DojoDB? Submit a request to the admin team. We’re happy to collaborate and expand support based on your academy’s unique needs.</sub>
+
+---
