@@ -8,6 +8,17 @@
     </p>
     <hr />
     <br />
+    <p>
+      <div style="bold">Features</div>
+      <ul>
+        <li>Learning Objectives</li>
+        <li>Lesson Plans</li>
+        <li>Class Attendance</li>
+        <li>Quizzes and Tests</li>
+        <li>Promotion Progress Charts</li>
+        <li>Study Guides</li>
+      </ul>
+    </p>
     <b>Supported Martial Arts*</b>
     <ul>
       <li>Judo</li>
