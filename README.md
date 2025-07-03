@@ -8,25 +8,52 @@
     </p>
     <hr />
     <br />
-    <p>
-      <table>
-        <tr>
-          <td><b>Features</b></td>
-        </tr>
-        <tr>
-          <td>
-            <ul>
-              <li>Learning Objectives</li>
-              <li>Lesson Plans</li>
-              <li>Class Attendance</li>
-              <li>Quizzes and Tests</li>
-              <li>Progress Charts</li>
-              <li>Study Guides</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </p>
+    <table>
+      <tr>
+        <td>Learning Objectives</td>
+      </tr>
+      <tr>
+        <td>Clearly define objectives and outcomes for your students, so that they can monitor their progress.</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>>Lesson Plans</td>
+      </tr>
+      <tr>
+        <td>Plan what your lessons will include. Stored for historic records, so that your students can review past teachings.</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>Class Attendance</td>
+      </tr>
+      <tr>
+        <td>Track which students attended a lesson. Ties their instructor-led knowledge to the learning objectives.</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>Progress Charts</td>
+      </tr>
+      <tr>
+        <td>Dashboards and charts for monitoring both student progress and teacher insights.</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>Learning Resources</td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>Study Guides</li>
+            <li>Instructional Videos</li>
+            <li>Quizzes and Tests</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
     <br />
     <p>
       <b>Supported Martial Arts *</b>
