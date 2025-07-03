@@ -28,3 +28,17 @@
 - **Judo**
 
 <sub>* Want another martial art added to DojoDB? Submit a request to the admin team. We’re happy to collaborate and expand support based on your academy’s unique needs.</sub>
+
+<br />
+
+## 🌏 Open Source Philosophy
+
+DojoDB is built on the principle that learning and community should be accessible to all. This project is and always will be **100% Free and Open Source Software (FOSS)**—without restrictions, subscriptions, or gated features.
+
+We chose the **GNU General Public License v3.0 (GPL-3.0)** to ensure that every fork, contribution, and derivative remains open and benefits the community at large. You are free to use, study, modify, and redistribute DojoDB in any setting—educational, personal, or commercial—so long as derivative works share the same freedoms.
+
+> _“Knowledge shared is knowledge strengthened.”_
+
+DojoDB is designed to strengthen the global martial arts community. If this project helps your dojo grow, your students flourish, or your instructors stay organized, then it's already fulfilling its purpose.
+
+_Built by practitioners, for practitioners—because martial arts thrives when its tools are as open as its teachings._
