@@ -1,1 +1,1 @@
-# readme.md
+# SQL migration scripts or schema definitions
