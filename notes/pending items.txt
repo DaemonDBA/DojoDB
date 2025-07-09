@@ -1,0 +1,6 @@
+- Need a way to denote promotion requirements and verify against data set.
+- Need a way to archive data once a promotion is set, to simplify the data set per judoka down to what's "current"/applicable.
+- Need a way for Dan ranks to track their points earned through activities.
+- Add the ability to print out a summary of current state and what's still needed for next promotion.
+--    For Dan ranks, this would include a summary of their current points and how many more points they need.
+- Add the ability to print a judoka's entire known history as a report.
