@@ -1,8 +1,6 @@
 # **DojoDB**
 ### _A Learning Management System Tailored for Martial Arts_
 
-> Helping students progress and instructors teach with precision.
-
 <br />
 
 ## Overview
