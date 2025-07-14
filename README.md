@@ -1,4 +1,5 @@
-# **DojoDB - A Learning Management System Tailored for Martial Arts**
+# **DojoDB**
+# **A Learning Management System Tailored for Martial Arts**
 
 <br />
 
