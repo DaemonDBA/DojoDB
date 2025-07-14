@@ -1,0 +1,138 @@
+Rokkyu
+------
+	  1. Teacher – Sensei
+	  2. Sitting on knees – Seiza
+	  3. Sitting crossed legged – Anza
+	  4. Attention! – Kiotsuke!
+	  5. Bow! – Rei!
+	  6. Off balance – Kuzushi
+	  7. Entry – Tsukuri
+	  8. Execution – Kake
+	  9. Person receiving technique – Uke
+	  10. Person performing technique – Tori
+	  11. Begin! – Hajime!
+	  12. Stop! – Matte!
+	  13. I surrender! – Maitta!
+	  14. Free practice – Randori
+	  15. Big or major – O
+	  16. Waist or hip – Koshi or Goshi
+	  17. Major hip throw – O Goshi
+	  18. Outside – Soto
+	  19. Major outside reaping throw – O Soto Gari
+	  20. One Point! (referee’s award) – Ippon!
+
+Gokyu
+-----
+		21. Continue! (referee’s call) – Yoshi!
+		22. Note! (referee’s call for slight penalty) – Shido!
+		23. Reaping action done with the leg – Gari
+		24. Inside – Uchi
+		25. Minor inside reaping throw – Ko Uchi Gari
+		26. Waist or hip techniques – Koshi Waza
+		27. Wheel – Guruma
+		28. Hip wheel throw – Koshi Guruma
+		29. Shoulder Hold – Kata Gatame
+		30. Second degree black belt – Nidan
+		31. Almost ippon! – Waza Ari!
+		32. Lock or hold – Gatame
+		33. Scarf hold – Kesa Gatame
+		34. Modified – Kuzure
+		35. Modified Scarf Hold – Kuzure Kesa Gatame
+		36. Black belt grade or rank – Dan
+		37. Beginning black belt – Shodan
+		38. That is all! – Sore Made!
+		39. Don’t move! – Sono Mama!
+		40. Little or minor – Ko
+
+Yonkyu
+------
+		41. Upper 4 Corner Hold – Kami Shiho Gatame
+		42. Modified Upper 4 Corner Hold – Kuzure Kami Shiho Gatame
+		43. Side 4 Corner Hold – Yoko Shiho Gatame
+		44. Modified Side 4 Corner Hold – Kuzure Yoko Shiho Gatame
+		45. Straddling Hold – Tate Shiho Gatame
+		46. Hold Down! (referee’s call) – Osaekomi!
+		47. Hold Down Broken! (referee’s call) – Toketa!
+		48. Sweeping action done with the leg – Harai or Barai
+		49. Sweeping hip throw – Harai Goshi
+		50. Third degree black belt – Sandan
+		51. Technique – Waza
+		52. Throw (noun) – Nage
+		53. Throwing technique(s) – Nage Waza
+		54. Hand – Te
+		55. Hand technique(s) – Te Waza
+		56. Foot or Leg – Ashi
+		57. Foot technique(s) – Ashi Waza
+		58. Grappling technique(s) – Katame Waza
+		59. Holding technique(s) – Osaekomi Waza
+		60. Loss by rule violation (referee’s call) – Hansoku Make
+
+Sankyu
+------
+		61. Judo uniform – Judogi
+		62. Judo uniform sleeve – Sode
+		63. Judo uniform belt – Obi
+		64. Judo uniform lapel – Eri
+		65. Body – Tai
+		66. To drop – Otoshi
+		67. Body drop throw – Tai Otoshi
+		68. Choke – Shime or Jime
+		69. Choking techniques – Shime Waza
+		70. Knee – Hiza
+		71. Knee wheel throw – Hiza Guruma
+		72. Sacrifice – Sutemi
+		73. Side or lateral – Yoko
+		74. Sacrifice technique(s) – Sutemi Waza
+		75. Forms of gripping an opponent – Kumi Kata
+		76. Four corners (as in pins) – Shiho
+		77. Side falling sacrifice throw(s) – Yoko Sutemi Waza
+		78. Counter technique(s) – Kaeshi Waza
+		79. Fourth degree black belt – Yodan
+		80. Fifth degree black belt – Godan
+
+Nikyu
+-----
+		81. Lift – Tsuri
+		82. Pull – Komi
+		83. Lift pull hip throw – Tsurikomi Goshi
+		84. Reverse side, back – Ura
+		85. Rear throw – Ura Nage
+		86. Dashing action done with the leg – Gake or Kake
+		87. Kneeling bow – Zarei
+		88. Standing bow – Ritsurei
+		89. Minor outside dashing throw – Ko Soto Gake
+		90. Eighth degree black belt – Hachidan
+		91. Rear, behind (as in throwing and pinning) – Ushiro
+		92. Tournament – Shiai
+		93. Practice hall for judo – Dojo
+		94. Judo Practitioner or player – Judoka
+		95. Arm – Ude
+		96. Entangle – Garami
+		97. To float or floating – Uki
+		98. Practice/Training mats – Tatami
+		99. Sixth degree black belt – Rokudan
+		100. Seventh degree black belt – Shichidan
+
+Ikkyu
+-----
+		101. Reverse Cross Choke – Gyaku Juji Jime
+		102. Half Cross Choke – Kata Juji Jime
+		103. Normal Cross Choke – Nami Juji Jime
+		104. Single Wing Choke – Kataha Jime
+		105. Sliding Lapel Choke – Okuri Eri Jime
+		106. Naked Choke – Hadaka Jime
+		107. Bent Arm Lock – Ude Garami
+		108. Cross Arm Lock – Ude Hishigi Juji Gatame
+		109. Straight Arm Lock – Ude Hishigi Ude Gatame
+		110. 9th Degree Black Belt – Kudan
+		111. 10th Degree Black Belt – Judan
+		112. Body movement – Tai Sabaki
+		113. Concentration of spirit – Kiai
+		114. Effective preferred technique – Tokui Waza
+		115. Left – Hidari
+		116. Right – Migi
+		117. Sandal (Japanese style) – Zori
+		118. Upper place or side of dojo – Joseki
+		119. Corner drop – Sumi Otoshi
+		120. Dead tree drop – Kuchiki Taoshi
+		121. Heel trip reversal – Kibisu Gaeshi
