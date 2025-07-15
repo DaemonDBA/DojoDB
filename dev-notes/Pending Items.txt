@@ -2,5 +2,15 @@
 - Need a way to archive data once a promotion is set, to simplify the data set per judoka down to what's "current"/applicable.
 - Need a way for Dan ranks to track their points earned through activities.
 - Add the ability to print out a summary of current state and what's still needed for next promotion.
---    For Dan ranks, this would include a summary of their current points and how many more points they need.
+      - For Dan ranks, this would include a summary of their current points and how many more points they need.
 - Add the ability to print a judoka's entire known history as a report.
+- Need a way to have clubs be publicly visible or private within the system.
+- Need a way for clubs to have a "bio" page introducing their club.
+- Need a way for club documents to be linked to.
+      - Also, do we want to consider hosting the docs? That will quickly explode in costs... Point them to free file hosting services?
+- Need a way to add and build upcoming lessons through a planner.
+- Need a way to view historic lesson plans.
+- Need a way to view lessons taught in a calendar-like format.
+- Need a way to track attendance.
+      - Do we want senseis to be the ones to certify it, but the judokas can report their attendance?
+      - Should we instead allow for the club to choose what method they want?
